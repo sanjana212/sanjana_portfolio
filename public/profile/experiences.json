@@ -1,0 +1,47 @@
+{
+    "experiences": [
+        {
+            "title": "Frontend Developer",
+            "subtitle": "Technolearn Traning",
+            "workType": "Full-time",
+            "workDescription": [
+                 "Web-designer :- Worked on an animated-related website project",
+                "Learned animation techniques for web design.",
+                             
+                "React.js :- Practiced state management and component lifecycle methods.",
+                "Explored the use of props for passing data between components.",
+                "Worked with React Router for client-side routing.",
+                "Understand the concept of virtual DOM and how React optimizes rendering."
+                
+            ],
+            "dateText": "06/2021 – Present"
+        },
+       
+        {
+            "title": "React Native Developer",
+            "subtitle": "Rabbit & Tortoise Technology Solutions",
+            "workType": "Full-time",
+            "workDescription": [
+                "Built cross-platform mobile apps with React Native.",
+                "Designed UI components for iOS/Android.",
+                "Integrated native modules for additional functionalities.",
+                "Managed state with Redux or Context API.",
+                "Debugged and optimized app performance."
+            ],
+            "dateText": "01/2023 – 03/2023"
+        },
+        {
+            "title": "React Developer",
+            "subtitle": "Rabbit & Tortoise Technology Solutions",
+            "workType": "Full-time",
+            "workDescription": [
+                        
+                "Developed UI components and managed state with Redux.",
+                "Optimized performance via code-splitting and lazy loading.",
+                "Conducted code reviews to improve quality.",
+                "Implemented responsive design with CSS-in-JS libraries."
+            ],
+            "dateText": "04/2023 – 01/2024"
+        }
+    ]
+}

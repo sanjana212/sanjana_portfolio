@@ -1,0 +1,41 @@
+{
+    "education":[
+        {
+            "title": "Jully 2021 - Jan 2022",
+            "cardTitle": "Diploma in web-development & React js",
+            "cardSubtitle":"Technolearn Traning, Pune",
+            "cardDetailedText": "Grade-A",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Jully 2017-Nov 2021",
+            "cardTitle": "Graduate in BSC-Agriculture",
+            "cardSubtitle":"College Of Agriculture, Loni",
+            "cardDetailedText": "GGPA - 8.1",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "March 2016-April 2017",
+            "cardTitle": "Higher Secondary School Education",
+            "cardSubtitle":"Sharada Junior College, Rahata",
+            "cardDetailedText": "Marks-82.15%",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "March 2013- June 2014",
+            "cardTitle": "Secondary School Education",
+            "cardSubtitle":"Sharada Kanya Vidya Mandir, Rahata",
+            "cardDetailedText": "Marks-93%",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        }
+
+    ]
+}
