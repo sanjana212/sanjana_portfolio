@@ -21,6 +21,7 @@ const styles = {
     justifyContent: 'center',
     alignItems: 'center',
     display: 'flex',
+    height: '100%',
   },
 };
 
