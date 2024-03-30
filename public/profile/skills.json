@@ -29,6 +29,10 @@
                 {
                     "icon": "images/skills/nodejs.png",
                     "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/mongo-db.png",
+                    "title": "mongo-db"
                 }
             ]
         },

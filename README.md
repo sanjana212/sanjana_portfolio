@@ -321,7 +321,7 @@ It has 2 keys, *logo* and *sections*.
             "cardSubtitle":"XYZ University, City",
             "cardDetailedText": "CGPA - 9.5",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/lorem-ipsum1.png"
             }
         },
         {
